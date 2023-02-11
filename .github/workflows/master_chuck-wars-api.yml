@@ -6,7 +6,7 @@ name: Build and deploy ASP.Net Core app to Azure Web App - chuck-wars-api
 defaults:
   run:
     shell: bash
-    working-directory: ./ChuckWarsApi
+    working-directory: ${{env.DOTNET_ROOT}}/ChuckWarsApi
     
 on:
   push:
