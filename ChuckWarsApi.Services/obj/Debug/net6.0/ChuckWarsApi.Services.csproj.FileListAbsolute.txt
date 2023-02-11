@@ -1,0 +1,16 @@
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ChuckWarsApi.Services.csproj.AssemblyReference.cache
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ChuckWarsApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ChuckWarsApi.Services.AssemblyInfoInputs.cache
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ChuckWarsApi.Services.AssemblyInfo.cs
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ChuckWarsApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\bin\Debug\net6.0\ChuckWarsApi.Services.deps.json
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\bin\Debug\net6.0\ChuckWarsApi.Services.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\bin\Debug\net6.0\ChuckWarsApi.Services.pdb
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\bin\Debug\net6.0\ChuckWarsApi.Shared.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\bin\Debug\net6.0\ChuckWarsApi.Shared.pdb
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ChuckWarsApi.Services.csproj.CopyComplete
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ChuckWarsApi.Services.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\refint\ChuckWarsApi.Services.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ChuckWarsApi.Services.pdb
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\obj\Debug\net6.0\ref\ChuckWarsApi.Services.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Services\bin\Debug\net6.0\ChuckWarsApi.Shared.xml

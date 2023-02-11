@@ -1,0 +1,14 @@
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\bin\Debug\net6.0\ChuckWarsApi.Shared.deps.json
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\bin\Debug\net6.0\ChuckWarsApi.Shared.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\bin\Debug\net6.0\ChuckWarsApi.Shared.pdb
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ChuckWarsApi.Shared.csproj.AssemblyReference.cache
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ChuckWarsApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ChuckWarsApi.Shared.AssemblyInfoInputs.cache
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ChuckWarsApi.Shared.AssemblyInfo.cs
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ChuckWarsApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ChuckWarsApi.Shared.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\refint\ChuckWarsApi.Shared.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ChuckWarsApi.Shared.pdb
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ref\ChuckWarsApi.Shared.dll
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\bin\Debug\net6.0\ChuckWarsApi.Shared.xml
+C:\Users\mumbw\Documents\Course Work\Blazor\ChuckSwapiChallenge\ChuckWarsRepo\ChuckWarsApi.Shared\obj\Debug\net6.0\ChuckWarsApi.Shared.xml

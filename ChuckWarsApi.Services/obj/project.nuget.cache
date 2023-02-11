@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xa5wW7ukiGzMFoN2iVtNy8tCznsyWKi16RoC99pZ9ZUjXBzAlfG7orkTYJgLeHDNTqeWXpG2FbUQ3JpruK9fwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mumbw\\Documents\\Course Work\\Blazor\\ChuckSwapiChallenge\\ChuckWarsRepo\\ChuckWarsApi.Services\\ChuckWarsApi.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mumbw\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\mumbw\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\mumbw\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mumbw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mumbw\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\mumbw\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mumbw\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

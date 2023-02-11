@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChuckWarsApi</name>
+    </assembly>
+    <members>
+        <member name="T:ChuckWarsApi.Controllers.ChuckController">
+            <summary>
+            Chuck Norris Api Controller
+            </summary>
+        </member>
+        <member name="M:ChuckWarsApi.Controllers.ChuckController.#ctor(ChuckWarsApi.Services.Chuck.IChuckService,AutoMapper.IMapper)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:ChuckWarsApi.Controllers.ChuckController.GetCategories">
+            <summary>
+            Returns a list of categories
+            </summary>
+        </member>
+        <member name="M:ChuckWarsApi.Controllers.ChuckController.GetRandomJoke(System.String)">
+            <summary>
+            Returns a random joke based on a catoegory
+            </summary>
+            <param name="category">Joke category</param>
+        </member>
+        <member name="M:ChuckWarsApi.Controllers.ChuckController.SearchJoke(System.String)">
+            <summary>
+            Search for a joke
+            </summary>
+            <param name="query">Search query</param>
+        </member>
+        <member name="T:ChuckWarsApi.Controllers.SearchController">
+            <summary>
+            Search Chuck Norris and Star Wars Api simultaneously
+            </summary>
+        </member>
+        <member name="M:ChuckWarsApi.Controllers.SearchController.#ctor(ChuckWarsApi.Services.Swapi.ISwapiService,ChuckWarsApi.Services.Chuck.IChuckService,AutoMapper.IMapper)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:ChuckWarsApi.Controllers.SearchController.Search(System.String)">
+            <summary>
+            Search method
+            </summary>
+        </member>
+        <member name="T:ChuckWarsApi.Controllers.SwapiController">
+            <summary>
+            Star Wars API Controller
+            </summary>
+        </member>
+        <member name="M:ChuckWarsApi.Controllers.SwapiController.#ctor(ChuckWarsApi.Services.Swapi.ISwapiService,AutoMapper.IMapper)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:ChuckWarsApi.Controllers.SwapiController.GetPeople">
+            <summary>
+            Gets a list of Star Wars People
+            </summary>
+        </member>
+    </members>
+</doc>
