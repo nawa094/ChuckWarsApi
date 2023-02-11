@@ -21,4 +21,14 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ChuckWarsApi.Services\ChuckWarsApi.Services.csproj" />
+    <ProjectReference Include="..\ChuckWarsApi.Shared\ChuckWarsApi.Shared.csproj" />
+    <ProjectReference Include="..\ChuckWarsApi\ChuckWarsApi.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
