@@ -42,10 +42,9 @@ namespace ChuckWarsApi.Controllers
         /// <param name="category">Joke category</param>
         [Route("random-joke/{category}")]
         [HttpGet]
-        [ProducesResponseType(200, Type = typeof(ChuckJokeModel))]
         public async Task<ActionResult<ChuckJokeModel>> GetRandomJoke([Required] string category)
         {
-            if (category.Length < 3 || category.Length > 120)
+            if (category.Length < 3 || category.Length > 119)
                 return BadRequest("Category length should be between 3 and 120 characters");
 
             var joke = await _chuckService.GetJokeAsync(category);
@@ -59,10 +58,9 @@ namespace ChuckWarsApi.Controllers
         /// <param name="query">Search query</param>
         [Route("search/{query}")]
         [HttpGet]
-        [ProducesResponseType(200, Type = typeof(ChuckSearchModel))]
         public async Task<ActionResult<ChuckSearchModel>> SearchJoke([Required] string query)
         {
-            if (query.Length < 3 || query.Length > 120)
+            if (query.Length < 3 || query.Length > 119)
                 return BadRequest("query length should be between 3 and 120 characters");
 
             var result = await _chuckService.SearchJokeAsync(query);

@@ -34,7 +34,7 @@ namespace ChuckWarsApi.Controllers
         /// Search method
         /// </summary>
         [HttpGet("{query}")]
-        public async Task<ActionResult<SearchResultModel>> Search(string query)
+        public async Task<SearchResultModel> Search(string query)
         {
             var chuckSearchTask = _chuckService.SearchJokeAsync(query);
             var swapiSearchTask = _swapiService.SearchPeople(query);
