@@ -39,7 +39,7 @@ namespace ChuckWarsApi.Tests.Controllers
             var expectedPeople = new PeopleDto
             {
                 Count = 1,
-                Next = "?page=2",
+                Next = "?page=1",
                 Previous = null,
                 Results = new List<PersonDto>
                 {
@@ -47,7 +47,7 @@ namespace ChuckWarsApi.Tests.Controllers
                 }
             };
 
-            swapiService.GetPeopleAsync().Returns(expectedPeople);
+            swapiService.GetPeopleAsync(1).Returns(expectedPeople);
             var controller = new SwapiController(swapiService, _mapper);
 
             // Act

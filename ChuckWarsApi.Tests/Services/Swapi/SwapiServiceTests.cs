@@ -39,7 +39,7 @@ namespace ChuckWarsApi.Tests.Services.Swapi
             var service = new SwapiService(client);
 
             // Act
-            var result = await service.GetPeopleAsync();
+            var result = await service.GetPeopleAsync(1);
 
             // Assert
             result.Count.ShouldBe(1);
