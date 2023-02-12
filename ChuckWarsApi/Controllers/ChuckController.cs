@@ -42,7 +42,7 @@ namespace ChuckWarsApi.Controllers
         /// <param name="category">Joke category</param>
         [Route("random-joke/{category}")]
         [HttpGet]
-        public async Task<ActionResult<ChuckJokeModel>> GetRandomJoke([Required] string category)
+        public async Task<ActionResult<ChuckJokeModel>> GetRandomJoke(string category)
         {
             if (category.Length < 3 || category.Length > 119)
                 return BadRequest("Category length should be between 3 and 120 characters");
