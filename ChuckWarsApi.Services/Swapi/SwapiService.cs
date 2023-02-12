@@ -12,12 +12,13 @@ namespace ChuckWarsApi.Services.Swapi
             _httpClient = httpClient;
         }
 
-        private const string PeopleEndpoint = "people";
+        private const string PeopleEndpoint = "people?page={0}";
         private const string SearchEndpoint = "people?search={0}";
 
-        public async Task<PeopleDto?> GetPeopleAsync()
+        public async Task<PeopleDto?> GetPeopleAsync(int pageNumber)
         {
-            var result = await _httpClient.GetFromJsonAsync<PeopleDto>(PeopleEndpoint);
+            var uri = string.Format(PeopleEndpoint, pageNumber);
+            var result = await _httpClient.GetFromJsonAsync<PeopleDto>(uri);
 
             return result;
         }

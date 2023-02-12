@@ -26,10 +26,10 @@ namespace ChuckWarsApi.Controllers
         /// <summary>
         /// Gets a list of Star Wars People
         /// </summary>
-        [HttpGet("people")]
-        public async Task<PeopleModel> GetPeople()
+        [HttpGet("people/{pageNumber}")]
+        public async Task<PeopleModel> GetPeople(int? pageNumber = 1)
         {
-            var result = await _swapiService.GetPeopleAsync();
+            var result = await _swapiService.GetPeopleAsync(pageNumber.Value);
 
             return _mapper.Map<PeopleModel>(result);
         }
